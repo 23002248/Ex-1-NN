@@ -1,10 +1,11 @@
 <H3>ENTER YOUR NAME : Stephen raj Y</H3>
-<H3>ENTER YOUR REGISTER NO: 212223230217</H3>
+<H3>ENTER YOUR REGISTER NO : 212223230217</H3>
 <H3>EX. NO.1</H3>
-<H3>DATE : 14-08-2024</H3>
+<H3>DATE : 21/08/2025</H3>
 <H1 ALIGN =CENTER> Introduction to Kaggle and Data preprocessing</H1>
 
 ## AIM:
+
 To perform Data preprocessing in a data set downloaded from Kaggle
 
 ## EQUIPMENTS REQUIRED:
@@ -36,8 +37,7 @@ STEP 5:Normalizing the data<BR>
 STEP 6:Splitting the data into test and train<BR>
 
 ##  PROGRAM:
-
-```
+```py
 import pandas as pd
 import io
 from sklearn.preprocessing import StandardScaler
@@ -78,47 +78,30 @@ print("Lenght of X_test ",len(X_test))
 
 ```
 
+
 ## OUTPUT:
-
 ### Dataset:
-
-<img width="1277" height="468" alt="image" src="https://github.com/user-attachments/assets/b21fcf7a-f057-4c2e-accd-d4e61b46a4d8" />
+![images](https://github.com/user-attachments/assets/7d7aaae0-826d-4cae-bbd8-a2287d7de089)
 
 ### X Values:
-
-<img width="726" height="178" alt="image" src="https://github.com/user-attachments/assets/e2ffd970-6256-43da-97af-d1ddde17c21c" />
-
+![images](https://github.com/user-attachments/assets/18342c94-abef-4229-b26d-0acdb5c58626)
 ### Y Values:
-
-<img width="670" height="60" alt="image" src="https://github.com/user-attachments/assets/99b54178-6c44-43bf-94b0-c8a2d50aacf9" />
-
+![images](https://github.com/user-attachments/assets/52944df9-1956-4e6a-bfab-ad0f187142ed)
 ### Null Values:
-
-<img width="315" height="339" alt="image" src="https://github.com/user-attachments/assets/b67c1c75-ef32-4107-b885-461f45ec9b55" />
-
+![images](https://github.com/user-attachments/assets/42d3958f-90c9-4e02-9cac-40289956eaa0)
 ### Duplicated Values:
-
-<img width="372" height="284" alt="image" src="https://github.com/user-attachments/assets/8f1a8de2-5747-4525-a13d-c1493c94ecb8" />
-
+![images](https://github.com/user-attachments/assets/aa48c2ba-8d64-4d60-b941-21c8d9bd3c21)
 ### Description:
-
-<img width="1269" height="346" alt="image" src="https://github.com/user-attachments/assets/073f08d6-98d3-488c-86b5-dae0177541de" />
-
+![images](https://github.com/user-attachments/assets/2e70d654-8a26-419f-8cb0-46b4d84a033c)
 ### Normalized Dataset:
-
-<img width="799" height="599" alt="image" src="https://github.com/user-attachments/assets/85b6c9c4-d4f2-4548-9c6e-8f36c4f48a9d" />
-
+![](https://github.com/user-attachments/assets/1b0ea631-5c44-476d-bee6-2a8ddcdabb98)
 ### Training Data:
-
-<img width="766" height="172" alt="image" src="https://github.com/user-attachments/assets/afa3e758-458b-4081-ae46-6b680aa3ab6b" />
-
+![](https://github.com/user-attachments/assets/3c91a26c-f398-4253-a2ed-e6acac6ef78a)
 ### Testing Data:
-
-<img width="819" height="175" alt="image" src="https://github.com/user-attachments/assets/3b5258fb-0bd0-4ab0-bbc4-3e804cc94f2a" />
-
-<img width="222" height="33" alt="image" src="https://github.com/user-attachments/assets/0d9aad6b-e24e-4b7b-b901-f4f3c84a8895" />
-
+![](https://github.com/user-attachments/assets/679b8a7b-057e-4bdb-ac4c-3da60c7aa258)
+![image](https://github.com/user-attachments/assets/9e77edeb-3c45-4eb7-a5ca-88bea4b9418e)
 
 ## RESULT:
+Thus, Implementation of Data Preprocessing is done in python  using a data set downloaded from Kaggle.
 
-Thus, Implementation of Data Preprocessing is done in python using a data set downloaded from Kaggle.
+
